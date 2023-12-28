@@ -17,7 +17,7 @@ Servo   dist;
         left_sustav_1.attach(37), left_sustav_2.attach(34), left_sustav_3.attach(32),
         right_sustav_1.attach(40), right_sustav_2.attach(52), right_sustav_3.attach(49),
         left_noga_1.attach(38), left_noga_2.attach(35), left_noga_3.attach(31),
-        right_noga_1.attach(41), right_noga_2.attach(53), right_noga_3.attach(50);        
+        right_noga_1.attach(41), right_noga_2.attach(53), right_noga_3.attach(51);        
 
 }
 
