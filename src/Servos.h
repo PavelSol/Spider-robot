@@ -9,8 +9,8 @@ Servo   left_plecho_1, left_plecho_2, left_plecho_3,
         right_noga_1, right_noga_2, right_noga_3;
 Servo   dist;
 
-int     start_angle_plecho = 90, start_angle_leftsustav = 135, start_angle_rightsustav = 45;
-int     start_angle_leftnoga = 75, start_angle_rightnoga = 105;
+int     start_angle_plecho = 90, start_angle_leftsustav = 170, start_angle_rightsustav = 20;
+int     start_angle_leftnoga = 120, start_angle_rightnoga = 75;
 
 void setup() {
         left_plecho_1.attach(36), left_plecho_2.attach(33), left_plecho_3.attach(30),
